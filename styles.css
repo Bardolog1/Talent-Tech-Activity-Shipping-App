@@ -164,15 +164,7 @@ input:valid ~ label{
     border-radius: 6px;
 }
 
-.labelFixed{
-    top: 10px;
-    left: 15px;
-    font-size: 1.2rem;
-    padding: 0 2px;
-    color: #c658e2;
-    background-color: #fff;
-    border-radius: 6px;
-}
+
 
 button{
     width: 10rem;
@@ -223,6 +215,7 @@ button:active{
 	background: rgba(255, 255, 255, 0.2);
 	animation: animate 20s linear infinite;
 	bottom: -150px;
+	border-radius: 50%;
 }
 .single-box li:nth-child(1) {
 	left: 86%;
